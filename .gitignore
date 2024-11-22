@@ -1,0 +1,9 @@
+*.DS_Store
+*.bak
+*.bck
+*.html
+*.kicad_pcb-bak
+*.swp
+*.xml
+*-backups*
+fp-info-cache
